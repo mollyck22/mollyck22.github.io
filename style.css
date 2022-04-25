@@ -2,8 +2,39 @@ body {
 	background-color: #9DD9D2;
 }
 h1 {
-	color: ##FF6B6B;
+	color:#EE4266;
+	text-align:center;
+}
+p {
+	color:#D90368 ;
+	text-align:center;
+
+}	
+.center {
+	display: block;
+	width: %;
+	margin-left: auto;
+	margin-right: auto;
+}
+li {
+	display: inline-block;
+	list-style: none;
+	float: left;
+	padding: 40px;
+	margin-left: 60px;
 	text-align: center;
-	font-family: "Georgia";
-	font-size: 60 px;
+}
+a {
+	color: #E56B6F;
+}
+
+.links {
+	background:##EBF5EE;
+	height:60px;
+	width:100%;
+}
+h3 {
+	color:#D90368 ;
+	text-align:center;
+
 }
